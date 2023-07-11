@@ -1,0 +1,24 @@
+form
+	ajout fonction validation de donnees + affichage
+	envoi donnees valides
+
+settings->profile
+	gerer l'update et le delete
+	suggestions
+
+
+espace user
+	post, post liké, post mentionnés
+
+	(ext) vue sommaire
+	
+espace général
+	deconnecte
+	-> pas d'option, khool rek
+	connecte
+	-> msg accueil
+	-> controles
+
+
+	
+		
